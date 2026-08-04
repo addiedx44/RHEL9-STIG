@@ -1,7 +1,7 @@
 ---
 # vars file for RHEL9-STIG
 
-min_ansible_version: 2.16.1
+min_ansible_version: 2.14.18
 
 rhel9stig_min_supported_os_ver:
   RedHat: "9.6"
